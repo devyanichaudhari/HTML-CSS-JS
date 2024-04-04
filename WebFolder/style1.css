@@ -1,0 +1,22 @@
+body{
+    color:rgb(109, 4, 39);
+}
+.div1{
+    border: dotted red 5px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-size: small;
+}
+#div2{
+    border: dashed palevioletred 5px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    font-family: monospace;
+    font-style: oblique;
+    font-size: medium;
+    text-shadow: violet 3px 2px;
+}
