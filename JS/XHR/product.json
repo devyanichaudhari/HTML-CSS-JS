@@ -1,0 +1,31 @@
+{
+    "product":
+    [
+        {
+        "pid":101,
+        "pname":"Speaker",
+        "price":1200
+        },
+        {
+            "pid":102,
+            "pname":"Airdopes",
+            "price":2500
+        },
+        {
+        "pid":103,
+        "pname":"Mobile",
+        "price":30000
+        },
+        {
+            "pid":104,
+            "pname":"Laptop",
+            "price":25000
+        },
+        {
+            "pid":105,
+            "pname":"LED_TV",
+            "price":22000
+        }
+    ]
+}
+
